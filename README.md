@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mparasiewicz00
-- 👀 I’m interested in ... programming? :) 
 - 🌱 I’m currently learning Java and still Python 🐍
 - 📫 How to reach me m.parasiewicz00@gmail.com
 
